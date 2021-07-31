@@ -6,5 +6,6 @@ Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-
 # Applications Open Now
  | Name | Location | Notes |
  |---|---|---|
- | [Amazon](https://www.amazon.jobs/en/jobs/1629491/software-development-engineer-intern) | Bengaluru, India | No Set Application Deadline |
- | [Goldmann Sachs](https://www.goldmansachs.com/careers/students/programs/india/summer-analyst-program.html) | Bengaluru, India | No Set Application Deadline |
+ | [Amazon](https://www.amazon.jobs/en/jobs/1629491/software-development-engineer-intern) | Bengaluru, India | SDE |
+ | [Goldmann Sachs](https://www.goldmansachs.com/careers/students/programs/india/summer-analyst-program.html) | Bengaluru, India | Summer Analyst |
+ | [Microsoft](https://careers.microsoft.com/students/us/en/ind-ur-intern-results) | Hyderabad, Bangalore, Noida | SDE, Data Scientist [Required CGPA >= 7.5] |
