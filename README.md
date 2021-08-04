@@ -14,6 +14,6 @@ Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-
  | [Intel](https://jobs.intel.com/page/show/search-results#t=Jobs&sort=relevancy&layout=table&f:@countryfullname=[India]&f:@employeetype=[Intern%2FStudent]) | Bangalore | Graduate Intern (Pursuing M Tech) |
  | [Microsoft](https://careers.microsoft.com/students/us/en/ind-ur-intern-results) | Hyderabad, Bangalore, Noida | SDE, Data Scientist [CGPA >= 7.5] |
  | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=Student%20%252F%20Intern&location=India&locationId=300000000106947&locationLevel=country&selectedFlexFieldsFacets=%22AttributeChar13%7CCampus%22) | Bengaluru, Hyderabad | All Roles |
- | <del>Salesforce</del> |  | **Application Closed** |
+ | <del>Salesforce</del> |  | **Closed** |
  | [Sony Research](https://www.linkedin.com/company/sonyresearchindia/jobs/) | Bengaluru | Frontend Dev, Backend Dev and Cloud Solutions Intern |
  | [Uber](https://university-uber.icims.com/jobs/search?ss=1&searchKeyword=intern&searchRelation=keyword_all&searchLocation=13228-54632-Hyderabad) | Hyderabad | SDE |
