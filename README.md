@@ -8,6 +8,7 @@ Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-
  |---|---|---|
  | [Amazon](https://www.amazon.jobs/en/jobs/1629491/software-development-engineer-intern) | Bengaluru | SDE |
  | [Cisco](https://jobs.cisco.com/jobs/SearchJobs/Intern%20India) | Bangalore | Most roles require pass out in 2022 [CGPA >= 8.5] |
+ | [Candence](https://cadence.wd1.myworkdayjobs.com/External_Careers/) | Bangalore, Noida | Select `India` and `Intern` checkbox in the website |
  | [Goldmann Sachs](https://www.goldmansachs.com/careers/students/programs/india/summer-analyst-program.html) | Bengaluru | Summer Analyst |
  | [HackerEarth](https://hackerearthjobs.recruiterbox.com/jobs/fk0ftkc/) | Bangalore | Problem Setter - DS & Algo |
  | [IBM](https://careers.ibm.com/job/13527858/intern-bangalore-in/) | Bangalore | CSE/IT Only [CGPA >= 7] |
