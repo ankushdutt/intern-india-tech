@@ -19,6 +19,7 @@ Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-
  | [Nasdaq](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/India---Bangalore/XMLNAME-2022-Summer-Internship---Bangalore_R0008837) | Bangalore | Several Roles |
  | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=Student%20%252F%20Intern&location=India&locationId=300000000106947&locationLevel=country&selectedFlexFieldsFacets=%22AttributeChar13%7CCampus%22) | Bengaluru, Hyderabad | Several Roles |
  | [Philips](https://www.careers.philips.com/student/global/en/job/415074/Intern) | Bangalore | SDE |
+ | [Quora](https://boards.greenhouse.io/quora/jobs/5438708002) | Remote | Data Scientist |
  | <del>Salesforce</del> |  | **Closed** |
  | <del>Sony Research</del> |  | **Closed** |
  | <del>Uber</del> |  | **Closed** |
