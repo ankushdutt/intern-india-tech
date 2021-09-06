@@ -7,6 +7,7 @@ Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-
  | Name | Location | Notes |
  |---|---|---|
  | [Amazon](https://www.amazon.jobs/en/jobs/1629491/software-development-engineer-intern) | Bengaluru | SDE |
+ | [BNY Mellon](https://assessment.hackerearth.com/challenges/hiring/code-divas-diversity-challenge-2021/) | Pune, Chennai | Females Only, HackerEarth Challenge [CGPA >= 7] |
  | [Candence](https://cadence.wd1.myworkdayjobs.com/External_Careers/) | Bangalore, Noida | Select `India` and `Intern` checkbox in the website |
  | [Cisco](https://jobs.cisco.com/jobs/SearchJobs/Intern%20India) | Bangalore | Most roles require pass out in 2022 [CGPA >= 8.5] |
  | [Goldmann Sachs](https://www.goldmansachs.com/careers/students/programs/india/summer-analyst-program.html) | Bengaluru | Summer Analyst |
